@@ -4,8 +4,9 @@
 **Job:** 20 trees: removal, stump grinding and full site cleanup
 **Location:** 3918 Mary Chapel Rd, Halifax, NC 27839
 **Deliverables:** 3 ad scripts (paid social) + 6 Instagram short-form scripts
+**Offer:** Every full tree removal includes stump grinding — no separate charge, no upsell.
 
-> Placeholders in `[BRACKETS]` (phone, website, offer) need filling before the edit.
+> Placeholders in `[BRACKETS]` (phone, website) need filling before the edit.
 > Confirm the spelling of Yonthan's name for on-screen text.
 
 ---
@@ -86,7 +87,7 @@ on the list, you have enough to cut all three ads and all six Reels.
 | **A2** | Yonthan explains the job: "20 trees, we're cutting them down, grinding every stump and cleaning everything up." |
 | **A3** | Yonthan on why they do it right (safety, care for the property, cleanup). Let him talk naturally, then pull the best line. |
 | **A4** | Homeowner reaction / testimonial, if they agree. "What did you think when you saw it finished?" Get a signed release. |
-| **A5** | Call to action: "Call DelaVida for a free estimate." In English **and** Spanish. |
+| **A5** | Call to action: "Every full tree removal includes stump grinding. No separate charge, no upsell. Call DelaVida for a free estimate." In English **and** Spanish. |
 | **A6** | Wild audio: chainsaw, chipper, grinder, tree fall, birds at the end. Clean, no talking. |
 
 ---
@@ -104,17 +105,18 @@ on the list, you have enough to cut all three ads and all six Reels.
 | 0:03–0:06 | **B2** drone before | VO: "Twenty trees on one property in Halifax." | Halifax, NC |
 | 0:06–0:10 | **B7** gear up → **B8** saw start → **B9** climber | VO: "Our crew showed up ready." | |
 | 0:10–0:15 | **B10** → **B12** → **B15** → **B17** (1 sec each, cut on the beat) | VO: "Every tree down, safely." | CUT ✔ |
-| 0:15–0:19 | **B22** → **B25** stump montage | VO: "Every stump ground out." | GRIND ✔ |
+| 0:15–0:19 | **B22** → **B25** stump montage | VO: "Every stump ground out, at no extra charge." | GRIND ✔ (included) |
 | 0:19–0:22 | **B26** → **B27** | VO: "Every inch cleaned up." | CLEAN ✔ |
 | 0:22–0:26 | **B1 → B30** before/after wipe, then **B31** drone after | Music drop | **BEFORE → AFTER** |
-| 0:26–0:30 | **B33** logo, then end card | VO: "DelaVida Tree Service and Landscaping. Call for your free estimate." | DelaVida Tree Service & Landscaping · [PHONE] · Free Estimates |
+| 0:26–0:30 | **B33** logo, then end card | VO: "With DelaVida, every full tree removal includes stump grinding. No separate charge, no upsell. Call for your free estimate." | **Stump grinding included with every full removal** · [PHONE] · Free Estimates |
 
 **Primary text (ad caption):**
 > 20 trees. Cut, stumps ground, and cleaned up, all on one job in Halifax, NC. 🌳➡️✨
 > If you've got trees that need to come down, DelaVida handles everything from the first cut to
-> the final cleanup. Call [PHONE] for a free estimate.
+> the final cleanup, and every full tree removal includes stump grinding. No separate charge, no
+> upsell. Call [PHONE] for a free estimate.
 
-**Headline:** 20 Trees Gone. Zero Mess Left Behind.
+**Headline:** Tree Removal With Stump Grinding Included. No Upsell.
 **CTA button:** Get Quote / Call Now
 
 **15-second cutdown:** 0:00–0:03 hook → 0:15–0:19 grind → 0:22–0:26 before/after → 0:26–0:30 end card.
@@ -134,7 +136,7 @@ on the list, you have enough to cut all three ads and all six Reels.
 | 0:04–0:09 | **A1** Yonthan on camera, property behind him | YONTHAN: "I'm Yonthan, owner of DelaVida Tree Service and Landscaping." | Yonthan · Owner |
 | 0:09–0:15 | **B5** Yonthan walking with homeowner → **B4** problem trees | YONTHAN (VO from **A2**): "This job is twenty trees. We're cutting them down, grinding every stump and cleaning everything up." | |
 | 0:15–0:24 | **B7** gear up → **B11** rigging lowers a limb → **B18** teamwork | YONTHAN (VO from **A3**): "My crew wears the right gear, we rig every cut, and we take care of your property like it's our own." | Insured · Safety First *(confirm before using)* |
-| 0:24–0:32 | **B22** grinding → **B24** stump gone → **B26** cleanup | YONTHAN: "And when we leave, you won't find a stump, a branch or a pile of sawdust." | |
+| 0:24–0:32 | **B22** grinding → **B24** stump gone → **B26** cleanup | YONTHAN: "Every full tree removal includes stump grinding. No separate charge, no upsell. And when we leave, you won't find a stump, a branch or a pile of sawdust." | Stump grinding included · No upsell |
 | 0:32–0:40 | **B29** walkthrough and handshake → **A4** homeowner reaction | HOMEOWNER (**A4**): pull the best 1–2 lines | Homeowner's quote as subtitle |
 | 0:40–0:46 | **B1 → B30** before/after → **B32** golden hour | Music swells | |
 | 0:46–0:55 | **A5** Yonthan to camera | YONTHAN: "If you've got trees you need gone, call DelaVida. The estimate is free." | **[PHONE]** · Hablamos Español |
@@ -144,14 +146,16 @@ on the list, you have enough to cut all three ads and all six Reels.
 > Meet Yonthan, owner of DelaVida Tree Service and Landscaping. 🌳
 > On this job in Halifax, NC, his crew took down 20 trees, ground every stump and left the
 > property spotless. That's how every job gets done.
+> Every full tree removal includes stump grinding. No separate charge, no upsell.
 > Free estimates: [PHONE]
 
 **Spanish version:** Use the same edit with Yonthan's lines recorded in Spanish and English
 captions burned in. Run it as a separate ad set aimed at Spanish speakers.
 
 > "Soy Yonthan, dueño de DelaVida Tree Service and Landscaping. En este trabajo cortamos 20
-> árboles, molimos todos los troncos y dejamos todo limpio. Si necesita quitar árboles, llámenos.
-> El estimado es gratis."
+> árboles, molimos todos los troncos y dejamos todo limpio. Toda remoción
+> completa de árbol incluye moler el tronco: sin cargo aparte, sin ventas extra. Si necesita quitar
+> árboles, llámenos. El estimado es gratis."
 
 ---
 
@@ -170,15 +174,15 @@ full service. Good for retargeting and for testing against Ad 1.
 | 0:08–0:14 | **B25** fast stump montage, counter on screen climbing 2 → 20 | Music | 2… 7… 13… 20 |
 | 0:14–0:18 | Pull back: **B20** drone top-down of the full lot | VO: "Twenty trees. Cut, ground and cleaned up." | |
 | 0:18–0:22 | **B19** timelapse of the whole day, sped up | VO: "One crew. One job. Done right." | |
-| 0:22–0:26 | **B30** clean lot → **B28** truck pulling out | VO: "DelaVida Tree Service and Landscaping." | |
+| 0:22–0:26 | **B30** clean lot → **B28** truck pulling out | VO: "At DelaVida, stump grinding comes with every full tree removal. No separate charge, no upsell." | **Stump grinding included. No upsell.** |
 | 0:26–0:30 | **B33** end card | VO: "Free estimates. Call today." | [PHONE] · Free Estimates |
 
 **Primary text:**
 > All 20 stumps, gone. 😮‍💨🔊 Sound on.
-> Tree removal, stump grinding and full cleanup in Halifax, NC and nearby. Call DelaVida for a
-> free estimate: [PHONE]
+> Every full tree removal with DelaVida includes stump grinding. No separate charge, no upsell.
+> Serving Halifax, NC and nearby. Call for a free estimate: [PHONE]
 
-**Headline:** Trees, Stumps & Cleanup. One Call.
+**Headline:** Stump Grinding Included. No Upsell.
 
 ---
 
@@ -200,7 +204,7 @@ Keep these loose. They should look like they were filmed on the job, not produce
 - **Hook (0–1s):** **B1** wide before. Text: *"POV: you hired us to take down 20 trees"*
 - **Beat 1:** **B19** timelapse, sped way up
 - **Beat 2:** hard cut to **B30** after
-- **Text at end:** *"Stumps too. 😌"*
+- **Text at end:** *"Stump grinding included. No extra charge. 😌"*
 - **Audio:** trending "transformation" sound
 - **Caption:** "20 trees, 20 stumps, 0 mess. Halifax, NC 🌳 #treeservice #beforeandafter"
 
@@ -209,7 +213,7 @@ Keep these loose. They should look like they were filmed on the job, not produce
 - **Hook:** **B22** grinder close-up, raw audio, no music. Text: *"Sound on 🔊"*
 - **Beat:** hold on the stump disappearing, then **B24** ground level
 - **Text at end:** *"Which part is more satisfying: the cut or the grind?"* (drives comments)
-- **Caption:** "Stump grinding hits different 😮‍💨 Comment CUT or GRIND 👇"
+- **Caption:** "Stump grinding hits different 😮‍💨 And it comes with every full tree removal, no extra charge. Comment CUT or GRIND 👇"
 
 ### Reel 3 — "Guess how old this tree was"
 **Length:** 10–15 sec
@@ -237,7 +241,8 @@ Keep these loose. They should look like they were filmed on the job, not produce
 - **Hook:** Yonthan to camera, text on screen: *"Should you grind the stump or leave it?"*
 - **Script (natural, his own words):** "Everybody asks me this. If you leave the stump, it can
   rot, draw bugs and get in the way when you mow. We grind it below the ground so you can
-  plant grass right over it." *(Have Yonthan check this is how he'd explain it.)*
+  plant grass right over it. And with us, grinding comes with every full tree removal. No
+  separate charge, no upsell." *(Have Yonthan check this is how he'd explain it.)*
 - **B-roll over the voice:** **B21 → B22 → B24**
 - **End:** *"Got a tree question? Drop it below and I'll answer it in the next video."*
 - **Caption:** "Stump questions answered 👇 Ask Yonthan anything about trees."
@@ -272,4 +277,5 @@ Keep these loose. They should look like they were filmed on the job, not produce
   Don't show the house number or street sign in the final edits unless the homeowner agrees.
 - [ ] Drone: check airspace and FAA rules before flying.
 - [ ] Get B30 and B31 at the end of the day before you pack up.
-- [ ] Fill in before the edit: [PHONE], website, any offer, and confirm "Insured" before putting it on screen.
+- [ ] Fill in before the edit: [PHONE] and website, and confirm "Insured" before putting it on screen.
+- [ ] Have Yonthan say the offer on camera in his own words too ("stump grinding is included, no extra charge"). It lands better from him than from VO.
