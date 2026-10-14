@@ -95,8 +95,15 @@ def scrape(query, scrolls=10, active_only=True, headful=False):
         page = ctx.new_page()
         page.on("response", on_response)
 
-        page.goto(build_url(query, active_only), timeout=90000,
-                  wait_until="domcontentloaded")
+        resp = page.goto(build_url(query, active_only), timeout=90000,
+                         wait_until="domcontentloaded")
+        if resp and resp.status == 403:
+            # Meta refuses some networks outright (cloud and datacenter IPs
+            # included) and then shows "No ads match", which looks like a
+            # real zero.
+            print(f"  !! {query}: Meta returned 403 — this network is blocked. "
+                  "Run from your own computer instead.", file=sys.stderr,
+                  flush=True)
 
         # Solve the /__rd_verify_ bot challenge if it's served.
         for _ in range(3):
@@ -252,6 +259,7 @@ def main():
     rows.sort(key=lambda r: r["days_running"] or -1, reverse=True)
 
     out = args.out or f"adlib_{re.sub(r'[^a-z0-9]+', '-', args.query.lower())}.json"
+    Path(out).parent.mkdir(parents=True, exist_ok=True)
     Path(out).write_text(json.dumps(rows, indent=2))
     print(f"{len(rows)} ads -> {out}")
     for r in rows[:10]:

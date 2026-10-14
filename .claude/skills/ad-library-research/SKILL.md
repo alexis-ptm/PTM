@@ -13,6 +13,8 @@ Pull every live ad for a competitor or keyword, then rank by run-duration. No Ap
 pip install playwright && playwright install chromium
 ```
 
+**Claude Code on the web (cloud sessions):** Meta blocks cloud servers. The page comes back 403 with "No ads match", so every query returns 0. Run the pull from Claude Code on your own computer, or paste the ads (or the raw JSON) into the session and skip to competitor-positioning. Never report a cloud-session zero as a finding.
+
 ## 1. Pull ads
 
 Single advertiser or keyword:
