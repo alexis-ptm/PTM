@@ -22,6 +22,7 @@ Say what to change from the swipes (usually the CTA: "tap the button" instead of
 - Use a real dollar figure. Ads that name a price before the click convert clicks to leads at roughly double the rate, and the price line is the first thing production drops, so check the launched ad against the written copy.
 - Put the price anchor in the first 3 seconds of on-screen text, not mid-script. Average view time is often under 10 seconds.
 - Lead with the promise no competitor makes (see competitor-positioning). Never lead with what everyone advertises.
+- Selling leads or marketing to a contractor (B2B)? Read `references/b2b-lead-gen-hooks.md` first: 40 proven hooks plus the patterns behind them. There the filter is monthly spend and the trade name, not the city and a job price.
 
 ## The offer
 
