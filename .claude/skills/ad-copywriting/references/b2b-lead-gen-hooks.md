@@ -13,7 +13,7 @@ Source: hooks based on proven winners, written for David (selling qualified tree
 7. **Their objection as the opening line.** "There's no way you can send qualified leads at that price." Quoting the skeptic is a pattern interrupt and handles the objection before it forms.
 8. **Capacity, not need.** "Your crews can handle more work. Your sales guys can close more work." Flatters the owner (they can close) and puts the gap on lead flow, which is what you sell.
 9. **Small permission close.** "Listen up." "Give me 15 seconds." The ask is tiny, so the viewer keeps watching.
-10. **Risk reversal in the hook.** "You only pay for qualified homeowners." Only use it if that is the real billing model, in writing.
+10. **Risk reversal.** "You only pay for qualified homeowners." Only use it if that is the real billing model, in writing. Usually save the strongest guarantee for the end of the ad (see `ad-framework.md`): leading with it attracts guarantee-shoppers. Hook 6 is the exception to test, not the default.
 
 ## How the homeowner rules change for B2B
 

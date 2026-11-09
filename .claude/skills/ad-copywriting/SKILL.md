@@ -7,6 +7,8 @@ description: Write direct-response ad and landing page copy that screens for buy
 
 Copy is a filter. The cheapest lead is usually the worst lead, so every rule below is about attracting the right people, not the most.
 
+Before writing a script or ad body, follow `references/ad-framework.md`: find the core care, map objections, then build Hook, Promise, Objections, CTA. It also covers testing, choosing the messenger and filtering with conditions.
+
 ## The inputs (get all three, or the copy is generic)
 
 1. **Form:** 2 to 4 winning ads from the market, typed out word for word. They give hook order, pacing and close.
